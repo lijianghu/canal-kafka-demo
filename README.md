@@ -69,6 +69,6 @@ canal.instance.filter.regex = .\..  # 正则匹配需要监控的表
   - 配置MySQL-->启动服务-->启动项目-->监听事件-->事件处理；
   - 具体可以查看看官网文档：[https://github.com/alibaba/canal/wiki/QuickStart](https://github.com/alibaba/canal/wiki/QuickStart)
   - 有没有很简单，亲手操作一下把！
-  //TODO 本项目只接了canal，没有kafka，后续陆续加上
+  - //TODO 本项目只接了canal，没有kafka，后续陆续加上
 
 <br />
